@@ -1,9 +1,19 @@
 import React, { Component } from 'react';
 import { Navbar, NavbarBrand } from 'reactstrap';
+import Directory from './components/DirectoryComponent';
+//import CampsiteInfo from './components/CampsiteInfoComponent';
+import { CAMPSITES } from './shared/campsites';
 import './App.css';
 
 
 class App extends Component {
+        constructor(props) {
+            super(props);
+            this.state = {
+                campsites: CAMPSITES
+            };
+        }
+        
     render() {
         return (
             <div className="App">
@@ -12,6 +22,7 @@ class App extends Component {
                     <NavbarBrand href="/">NuCamp</NavbarBrand>
                 </div>
                 </Navbar>
+                <Directory campsites={this.state.campsites} />
             </div>
         );
     }
