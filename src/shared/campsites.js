@@ -9,37 +9,37 @@ export const CAMPSITES = [
             {
                 id: 0,
                 rating: 5, 
-                text: "What a magnificent view!",
-                author: "Tinus Lorvaldes",
-                date: "2018-10-25T16:30Z"
+                text: "Great Place!",
+                author: "Jaden K.",
+                date: "2020-10-25T16:30Z"
             },
             {
                 id: 1,
                 rating: 4, 
-                text: "The campground was beautiful, but the bugs could bite sometimes.",
-                author: "Brennen Ech",
+                text: "The lake was nice, the bugs are horrible.",
+                author: "Joseph J.",
                 date: "2017-06-17T03:33Z"
             },
             {
                 id: 2,
                 rating: 5, 
                 text: "I caught a world-record-breaking trout here on my last visit.",
-                author: "McKenzie Sebastian",
-                date: "2019-02-18T18:12Z"
+                author: "Mac Intosh",
+                date: "2021-02-18T18:12Z"
             },
             {
                 id: 3,
                 rating: 5, 
                 text: "A wonderful place to reconnect with nature.",
-                author: "Jordan Runn",
-                date: "2019-08-04T20:11Z"
+                author: "Jackson Five",
+                date: "2021-08-04T20:11Z"
             },
             {
                 id: 4,
                 rating: 4, 
                 text: "The stars at night were magnificent!",
-                author: "Ann Dabramov",
-                date: "2018-07-23T19:44Z"
+                author: "True Spirit",
+                date: "2020-07-23T19:44Z"
             }
         ]
     },
@@ -53,37 +53,37 @@ export const CAMPSITES = [
             {
                 id: 0,
                 rating: 5, 
-                text: "What a magnificent view!",
-                author: "Tinus Lorvaldes",
-                date: "2018-10-25T16:30Z"
+                text: "Really nice view!",
+                author: "Mr. Trouble",
+                date: "2020-10-25T16:30Z"
             },
             {
                 id: 1,
                 rating: 4, 
-                text: "The campground was beautiful, but the bugs could bite sometimes.",
-                author: "Brennen Ech",
+                text: "The campground was wonderful!",
+                author: "Brandan Wade",
                 date: "2017-06-17T03:33Z"
             },
             {
                 id: 2,
                 rating: 5, 
                 text: "I caught a world-record-breaking trout here on my last visit.",
-                author: "McKenzie Sebastian",
-                date: "2019-02-18T18:12Z"
+                author: "Zia Lacen",
+                date: "2021-02-18T18:12Z"
             },
             {
                 id: 3,
                 rating: 5, 
                 text: "A wonderful place to reconnect with nature.",
-                author: "Jordan Runn",
-                date: "2019-08-04T20:11Z"
+                author: "Jason Lacen",
+                date: "2021-08-04T20:11Z"
             },
             {
                 id: 4,
                 rating: 4, 
-                text: "The stars at night were magnificent!",
-                author: "Ann Dabramov",
-                date: "2018-07-23T19:44Z"
+                text: "Watch out for bears!",
+                author: "Dabra W.",
+                date: "2020-07-23T19:44Z"
             }
         ]
     },
@@ -97,37 +97,37 @@ export const CAMPSITES = [
             {
                 id: 0,
                 rating: 5, 
-                text: "What a magnificent view!",
-                author: "Tinus Lorvaldes",
-                date: "2018-10-25T16:30Z"
+                text: "Spectacular view!",
+                author: "Lord Voldermont",
+                date: "2020-10-25T16:30Z"
             },
             {
                 id: 1,
                 rating: 4, 
-                text: "The campground was beautiful, but the bugs could bite sometimes.",
-                author: "Brennen Ech",
+                text: "Leave some breadcrumbs or you'll get lost.",
+                author: " Richard Roundtree",
                 date: "2017-06-17T03:33Z"
             },
             {
                 id: 2,
                 rating: 5, 
-                text: "I caught a world-record-breaking trout here on my last visit.",
-                author: "McKenzie Sebastian",
-                date: "2019-02-18T18:12Z"
+                text: "Great fishing here.",
+                author: "Sebastian Cabbott",
+                date: "2021-02-18T18:12Z"
             },
             {
                 id: 3,
                 rating: 5, 
                 text: "A wonderful place to reconnect with nature.",
-                author: "Jordan Runn",
-                date: "2019-08-04T20:11Z"
+                author: "Nathan A.",
+                date: "2021-08-04T20:11Z"
             },
             {
                 id: 4,
                 rating: 4, 
-                text: "The stars at night were magnificent!",
-                author: "Ann Dabramov",
-                date: "2018-07-23T19:44Z"
+                text: "Deer are everywhere!",
+                author: "Tina Turner",
+                date: "2020-07-23T19:44Z"
             }
         ]
     },
@@ -141,37 +141,37 @@ export const CAMPSITES = [
             {
                 id: 0,
                 rating: 5, 
-                text: "What a magnificent view!",
-                author: "Tinus Lorvaldes",
-                date: "2018-10-25T16:30Z"
+                text: "Nice campground!",
+                author: "Titus Araxam",
+                date: "2020-10-25T16:30Z"
             },
             {
                 id: 1,
                 rating: 4, 
-                text: "The campground was beautiful, but the bugs could bite sometimes.",
-                author: "Brennen Ech",
+                text: "Nice trails in the woods.",
+                author: "Brendan Frasier",
                 date: "2017-06-17T03:33Z"
             },
             {
                 id: 2,
                 rating: 5, 
-                text: "I caught a world-record-breaking trout here on my last visit.",
-                author: "McKenzie Sebastian",
-                date: "2019-02-18T18:12Z"
+                text: "Lots of fish.",
+                author: "Sista Soulja",
+                date: "2021-02-18T18:12Z"
             },
             {
                 id: 3,
                 rating: 5, 
                 text: "A wonderful place to reconnect with nature.",
-                author: "Jordan Runn",
-                date: "2019-08-04T20:11Z"
+                author: "Justin Timberlake",
+                date: "2021-08-04T20:11Z"
             },
             {
                 id: 4,
                 rating: 4, 
-                text: "The stars at night were magnificent!",
-                author: "Ann Dabramov",
-                date: "2018-07-23T19:44Z"
+                text: "The evenings by the campfire were great!",
+                author: "Anna Jones",
+                date: "2020-07-23T19:44Z"
             }
         ]
     }
